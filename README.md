@@ -6,7 +6,7 @@ _La segunda etapa, se espera crear un Super codificador llamado SAL, basado en c
 
 _Finalmente, como tercera etapa, se espera la creación de un juego de investigación para adivinar códigos de acceso, basado en números_
 
-## Comenzando 🚀
+## Trabajando 🚀
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
