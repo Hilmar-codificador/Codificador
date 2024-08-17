@@ -70,11 +70,11 @@ body {
   display: flex;
   flex-direction: column;
   width: 580px;
-  height: 500px;
+  height: 475px;
   background-color: none;
   border-radius: var(--espacio-mediano);
   padding: 0;
-  margin-bottom: 0;
+  margin-bottom: 2px;
   font-size: var(--font-size-grande);
   line-height: 0;
   justify-content: flex-start;
@@ -190,7 +190,6 @@ body {
   font-family: var(--fuente-inter);
   font-size: var(--font-size-mediano);
   margin: 4px 2px;
-  margin-bottom: 2px;
   cursor: pointer;
   border-color: var(--color-secundario);
   border-radius: 24px;
