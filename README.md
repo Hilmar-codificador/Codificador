@@ -6,8 +6,6 @@
    <img src="https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green">
    </p>
 
-   ![GitHub Org's stars](https://img.shields.io/github/stars/Codificador Hilmar?style=social)
-
 _Tu herramienta de encriptación de confianza para mensajes secretos y seguros._
 
 Codificador es una aplicación diseñada para brindar una capa adicional de seguridad a tus mensajes. En esta primera fase, el programa te permite codificar y decodificar palabras, lo que asegura que tus conversaciones sean privadas y seguras. Con futuras fases planeadas, ¡esta herramienta se convertirá en una poderosa solución de encriptación y seguridad!
